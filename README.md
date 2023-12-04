@@ -1,4 +1,6 @@
-# Title
+# Travail à faire (partie n°4)
+
+## Application des tables de Hachage.
 
 Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
 
@@ -9,5 +11,5 @@ Source code is under the [src](./src/) folder
 Solutions can be run via:
 
 ```sh
-runner src/file
+make
 ```
